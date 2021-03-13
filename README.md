@@ -25,7 +25,7 @@
 
 * The application will be developed for __Android OS__
 * We are going to use __Kotlin__ language for app development
-* Other tools used: __GSON, Spring__
+* Other tools used: __GSON, Spark, Whimsical, Ticker__
 
 <br>
 
